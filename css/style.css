@@ -3326,6 +3326,7 @@ ul {
   position: absolute;
   right: -83px;
   top: -50px;
+  width: 65% ;
 }
 
 @media (max-width: 576px) {
