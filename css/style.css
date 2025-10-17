@@ -3326,7 +3326,8 @@ ul {
   position: absolute;
   right: -83px;
   top: -50px;
-  width: 50vh;
+  max-width: 35vw;
+  max-height: 700px;
 }
 
 @media (max-width: 576px) {
