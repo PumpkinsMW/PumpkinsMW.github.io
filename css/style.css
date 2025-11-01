@@ -3326,7 +3326,6 @@ ul {
   position: absolute;
   right: -83px;
   top: -50px;
-  max-width: 35vw;
   max-height: 700px;
 }
 
@@ -3336,7 +3335,7 @@ ul {
     position: absolute;
   top: 0px;
   left: 0px;
-  width: 40vh;
+  width: 80vh;
   }
 }
 
@@ -3346,7 +3345,7 @@ ul {
     position: absolute;
   top: 0px;
   left: 0px;
-  width: 40vh;
+  width: 50vh;
   }
 }
 
@@ -3364,6 +3363,7 @@ width: 40vh;
   /* line 85, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
   .about_part .about_img .img_2 {
     top: 0px;
+    width: 40vh;
 
   }
 }
